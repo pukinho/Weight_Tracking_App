@@ -1,6 +1,6 @@
 # Weight Tracking App
 
-App for tracking weight of two people, created using HTML, CSS, JS and CanvasJS.
+App for tracking weight of two people. Created using HTML, CSS, JS and CanvasJS.
 
 Just pick the date and type the weight at that time. The graph will show up automatically.
 
